@@ -1,3 +1,22 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+
+.login {
+  justify-content: center;
+  display: flex;
+  margin-top: 180px;
+}
+
+.form-group {
+  max-width: 550px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-size: 15px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: rgb(183, 179, 179);
+}
